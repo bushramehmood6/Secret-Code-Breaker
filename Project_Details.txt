@@ -1,0 +1,56 @@
+Project: Secret Code Breaker
+Language: Python
+Type: Console-based application
+
+Description:
+Secret Code Breaker is a password guessing game where the computer randomly selects a word from three difficulty levels:
+
+Easy: Simple, short words
+
+Moderate: Medium-length words
+
+Hard: Long and tricky words
+
+The user selects the difficulty level and tries to guess the secret word.
+After each wrong guess, the program generates a hint:
+
+Correct letters in the correct position are displayed.
+
+Incorrect letters are replaced with underscores (_).
+The user continues guessing until the correct word is entered.
+
+Key Features:
+
+Multiple difficulty levels
+
+Random word selection
+
+Attempt counter
+
+Dynamic hints for user guidance
+
+Simple and engaging console interaction
+
+Learning Outcomes:
+
+Understanding randomization in Python
+
+Practicing loops, conditions, and string handling
+
+Improving problem-solving and debugging skills
+
+Designing an algorithm for interactive hints
+
+Writing clean and modular Python code
+
+Future Extensions:
+
+Add a scoring system
+
+Implement time-based challenges
+
+Convert to a GUI-based application
+
+Extend word bank for more variety
+
+This project demonstrates skills in Python programming, algorithm design, and interactive application development.
