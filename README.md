@@ -28,4 +28,4 @@ The game offers **three difficulty levels** (Easy, Moderate, Hard) and provides 
 ## 🚀 How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Secret-Code-Breaker.git
+   git clone https://github.com/bushramehmood6/Secret-Code-Breaker.git
